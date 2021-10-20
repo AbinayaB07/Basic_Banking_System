@@ -1,6 +1,6 @@
 # Basic_Banking_System
 I have develop this Basic Banking system as an intern for the sparks foundation
-#GRIPSEPTEMBER21 #GRIPSEPT21
+#GRIPOCTOBER21 #GRIPOCT21
 
 Intern @ Spark foundation
 
